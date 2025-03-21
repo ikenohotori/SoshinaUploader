@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35906.104
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoshinaUploader", "SoshinaUploader\SoshinaUploader.csproj", "{5FC87418-A2BB-400E-B53F-2CA452EB2BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{AC9AC0BE-85EF-45D3-9F02-9DF2AE077113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FC87418-A2BB-400E-B53F-2CA452EB2BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC87418-A2BB-400E-B53F-2CA452EB2BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC87418-A2BB-400E-B53F-2CA452EB2BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC87418-A2BB-400E-B53F-2CA452EB2BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9AC0BE-85EF-45D3-9F02-9DF2AE077113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9AC0BE-85EF-45D3-9F02-9DF2AE077113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9AC0BE-85EF-45D3-9F02-9DF2AE077113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9AC0BE-85EF-45D3-9F02-9DF2AE077113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB3D67DF-56FD-41AC-8124-D6C84F70D440}
+	EndGlobalSection
+EndGlobal
