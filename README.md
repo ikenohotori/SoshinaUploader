@@ -1,6 +1,6 @@
 # SoshinaUploader
 ## 概要
-最新のニュース
+最新のニュースを粗品の1人賛否形式でYoutubeに自動投稿するシステム
 
 ## シーケンス
 ```mermaid
@@ -25,4 +25,4 @@ sequenceDiagram
 ```
 
 ## 記事
-
+https://qiita.com/ikenohotori/items/8c90559fb3bf359291a2
